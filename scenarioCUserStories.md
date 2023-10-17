@@ -16,6 +16,6 @@ Yes they should be taken at the start of the month for big bills like rent and p
 ### Should you just total the bill at the end of the month or run seperate expenses individully?
 I would rather split big expenses at the start if the month and then add smaller expenses as they happen through the month
 
-###When repairs are requried how would the system handle the bills?
+### When repairs are requried how would the system handle the bills?
 <p>When something has broken the person who cause said incident should be able to initiate a bill split request to pay for the rapair, but the diffenrence between this and other bill splitting request is that this one should be opt in/out with each use choosing whether they bear the responsibility to pay for said repar and it will calculate the split price after everyone ha opted in or out</p>
 
