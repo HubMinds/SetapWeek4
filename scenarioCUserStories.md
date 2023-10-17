@@ -7,5 +7,5 @@ Not automatically but I would like to be given the option. E.g. a popup that ask
 ### Should payments be taken automatically?
 Yes they should be taken at the start of the month for big bills like rent and power but for things like food for the week they should be paid for manually and if the cost of rent changes I should be notified.
 
-### Should you just total the bill at the end of the month or run seperate expenses individully
+### Should you just total the bill at the end of the month or run seperate expenses individully?
 I would rather split big expenses at the start if the month and then add smaller expenses as they happen through the month
